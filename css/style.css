@@ -1,0 +1,16 @@
+header.masthead {
+    text-align: center;
+    color: #ffcb6a;
+    background-image: url("../img/takumi.png") ;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    filter: saturate(0.8);
+  }
+
+  header.masthead .intro-text {
+    padding-top: 500px;
+    padding-bottom: 50px;
+    padding-right: 70px;
+  }
+  
